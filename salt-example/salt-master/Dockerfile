@@ -1,6 +1,6 @@
 FROM jarfil/salt-master-mini:debian-stretch
 
-MAINTAINER Jaroslaw Filiochowski <jarfil@gmail.com>
+MAINTAINER shivam jha <shivamjhaonthecloud@gmail.com>
 
 COPY . /
 
